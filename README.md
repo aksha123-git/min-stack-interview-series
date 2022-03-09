@@ -1,1 +1,0 @@
-# min-stack-interview-series
